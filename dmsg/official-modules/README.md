@@ -4,4 +4,4 @@ This is a collection of notes and tips for running official modules. I've run a 
 
 ## Contents
 
-- [Strixhaven: A Curriculum of Chaos](strixhaven.md)
+- [Strixhaven: A Curriculum of Chaos](strixhaven/README.md)
