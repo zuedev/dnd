@@ -6,21 +6,9 @@ This is how I run Strixhaven.
 
 Okay, so a lot of people don't like Strixhaven due to how barebones it is. I'm not going to get into that right now, but I will say that I think it's a great module for new DMs due to how much it forces you to improvise. It's also a great module for experienced DMs who want to try something new and would rather not have to worry about a lot of prep work as it does a lot of the heavy lifting for you.
 
-## Phase Structure
+## Content
 
-Repeat the following phases for each set school term as many times as you want per school year.
-
-[Click here to see the phases as a flowchart.](phase-structure.mermaid)
-
-### Phase 1: Classes
-
-### Phase 2: Jobs
-
-### Phase 3: Clubs
-
-### Phase 4: Social
-
-### Phase 5: Events
+- [Phases](phases.md)
 
 ## Sources
 
