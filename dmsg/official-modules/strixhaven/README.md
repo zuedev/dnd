@@ -10,31 +10,7 @@ Okay, so a lot of people don't like Strixhaven due to how barebones it is. I'm n
 
 Repeat the following phases for each set school term as many times as you want per school year.
 
-```mermaid
----
-title: Strixhaven Phase Structure Flowchart
----
-flowchart LR;
-    START[Term Start];
-    END[Term End];
-
-    P1(Phase 1: Classes);
-    P2(Phase 2: Jobs);
-    P3(Phase 3: Clubs);
-    P4(Phase 4: Social);
-    P5(Phase 5: Events);
-
-    D1{Ready?};
-
-    START-->P1;
-    P1-->P2;
-    P2-->P3;
-    P3-->P4;
-    P4-->D1;
-    D1-- YES -->P5;
-    D1-- NO -->P1;
-    P5-->END;
-```
+[Click here to see the phases as a flowchart.](phase-structure.mermaid)
 
 ### Phase 1: Classes
 
