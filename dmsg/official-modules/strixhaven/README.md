@@ -1,4 +1,4 @@
-# DMSG / Official Modules / Strixhaven
+# [DMSG](../../README.md) / [Official Modules](../README.md) / Strixhaven
 
 This is how I run Strixhaven.
 
@@ -23,9 +23,9 @@ flowchart LR;
     P3(Phase 3: Clubs);
     P4(Phase 4: Social);
     P5(Phase 5: Events);
-    
+
     D1{Ready?};
-    
+
     START-->P1;
     P1-->P2;
     P2-->P3;
