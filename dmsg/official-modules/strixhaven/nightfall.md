@@ -1,5 +1,7 @@
 # [DMSG](../../README.md) / [Official Modules](../README.md) / [Strixhaven](README.md) / Nightfall
 
+<img src="assets/nightfall_campus.png" height="300" />
+
 Nightfall is the College of Occultism, where the secrets of the arcane and forbidden are unlocked through the study and practice of dark magic. Its mages delve deep into the darkness, exploring the mysteries of the unseen world through ancient texts, dark rituals, and forbidden knowledge. Nightfall mages journey through the shadows, seeking out hidden knowledge in long-forgotten places, and channeling the power of the void to uncover secrets that have been lost to the ages. They summon the spirits of the departed and consort with entities from beyond the veil, peering into the abyss to unlock the secrets of the unknown.
 
 ## Faculty
