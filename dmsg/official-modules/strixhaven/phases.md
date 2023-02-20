@@ -2,7 +2,7 @@
 
 Repeat the following phases for each set school term as many times as you want per school year.
 
-[Click here to see the phases as a flowchart.](phase-structure.mermaid)
+![](assets/phase-structure.png)
 
 ### Phase 1: Classes
 
