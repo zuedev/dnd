@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+highlighter: none

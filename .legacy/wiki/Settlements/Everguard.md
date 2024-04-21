@@ -1,0 +1,7 @@
+# Everguard
+
+The shimmering jewel of The Gilded Coast, Everguard is the most populous settlement in the area and the capital city that houses The Emperors Heirs; the governing council of The Gilded Coast. The city is home to approximately 9000 people; mostly human, with some other civilized races. The city is flanked to the south by a small farming hamlet outside the walls which provides extra fresh produce for the inhabitants in return for protection.
+
+Everguard is known for its extensive relative wealth in comparison with the rest of The Gilded Coast, primarily due to the expensive taxation The Emperors Heirs forces upon the lands under their control. Due to the city's strategic trading location, it is also home to one of the largest bustling markets outside of Sovereign itself. It is considered one of the primary trading hubs of The Empire, with many both famous and infamous traders walking its streets.
+
+The Emperor himself blessed the city as his first liberated settlement in his great crusade to unite the people of Ha'ven. Therefore, in the southern ward of the city, there is a temple dedicated to him, where you can find clerics serving in his name. It is a hotspot for any travelling Empire citizen who wishes to pay respects and provide prayers to The Emperor and is considered a right of passage for those serving in his holy army.

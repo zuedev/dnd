@@ -1,0 +1,3 @@
+# Valismian
+
+The Valismian are dark elves that were exiled from the underdark hundreds of years ago and now travel the sands of the Shifting Expanse. Their corrupted heritage hangs with them even today, evident by the sullen and dark pigment of their skin. Typically keeping to themselves, they are only regularly seen to outsiders when travelling in caravans to sell their wares. Talented merchants and hagglers, the Valismian people try their best to avoid conflict whenever possible, instead opting to barter with hostiles for their safety. However, when cornered, the Valismian are proficient with the traditional weapons of the Drow race; hidden daggers and sickles line their hips, always ready to be used at a moment's notice.
