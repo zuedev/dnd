@@ -1,4 +1,4 @@
-# Rules
+# 📜 Rules
 
 ## Character Creation
 
