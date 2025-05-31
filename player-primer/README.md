@@ -1,4 +1,4 @@
-# D&D Player Primer (PP)
+# zuedev's "Player Primer" for Dungeons & Dragons 5th Edition
 
 Welcome to my "Player Primer" for Dungeons & Dragons! This guide intends to prepare new players for my D&D sessions and provide a reference for ongoing play. Keeping this page open during sessions is recommended when playing to help build good habits and keep me accountable.
 
