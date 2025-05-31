@@ -1,3 +1,5 @@
+<img src="source/pp.png" alt="Player Primer" width="100px"/>
+
 # zuedev's "Player Primer" for Dungeons & Dragons 5th Edition
 
 Welcome to my "Player Primer" for Dungeons & Dragons! This guide intends to prepare new players for my D&D sessions and provide a reference for ongoing play. Keeping this page open during sessions is recommended when playing to help build good habits and keep me accountable.
@@ -7,6 +9,6 @@ Keep in mind that this guide assumes you have read **Chapters 7-10** from the **
 ## Index
 
 - The Essentials:
-  - [📜 Rules](pages/rules.md)
+  - [📜 Rules](source/rules.md)
 - Special Topics:
-  - [⚗️ Alchemy](pages/alchemy.md)
+  - [⚗️ Alchemy](source/alchemy.md)
