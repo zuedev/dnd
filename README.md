@@ -1,14 +1,9 @@
 <img src="source/pp.png" alt="Player Primer" width="100px"/>
 
-# zuedev's "Player Primer" for Dungeons & Dragons 5th Edition
+# dnd5e-player-primer
 
-Welcome to my "Player Primer" for Dungeons & Dragons! This guide intends to prepare new players for my D&D sessions and provide a reference for ongoing play. Keeping this page open during sessions is recommended when playing to help build good habits and keep me accountable.
+> For players of my D&D sessions
 
-Keep in mind that this guide assumes you have read **Chapters 7-10** from the **<a href="https://www.dndbeyond.com/sources/basic-rules" target="_blank">🐉 Basic Rules for D&D 5th Edition</a>**.
+## Development
 
-## Index
-
-- The Essentials:
-  - [📜 Rules](source/rules.md)
-- Special Topics:
-  - [⚗️ Alchemy](source/alchemy.md)
+**This project is mirrored!** Please do not push directly to this repository. Instead, format your changes using [`git format-patch`](https://git-scm.com/docs/git-format-patch) and send them to me via [email](mailto:git@zue.dev) or [Discord](https://discord.com/users/723361818940276736).
