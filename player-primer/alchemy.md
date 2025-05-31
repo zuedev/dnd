@@ -1,7 +1,3 @@
----
-background_image: "/_assets/images/backgrounds/alchemy.jpg"
----
-
 # ⚗️ Alchemy
 
 The topic of Alchemy is barely touched upon in D&D, relegated to a simple check and some time. Let's make it more interesting! 🤓

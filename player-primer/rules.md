@@ -57,8 +57,6 @@ The following optional and variant rules are being used:
   <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#TyingKnots" target="_blank">🐉 Tying Knots</a></li>
 </ul>
 
-<!-- need to continue adding from this list: https://5e.tools/variantrules.html#customizing%20your%20origin_tce -->
-
 ## Homebrew Rules
 
 ### Critical Initiative
