@@ -6,5 +6,7 @@ Keep in mind that this guide assumes you have read **Chapters 7-10** from the **
 
 ## Index
 
-- [Rules](pages/rules.md)
-- [Alchemy](pages/alchemy.md)
+- The Essentials:
+  - [Rules](pages/rules.md)
+- Special Topics:
+  - [Alchemy](pages/alchemy.md)
