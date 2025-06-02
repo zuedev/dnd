@@ -1,3 +1,5 @@
+import { HtmlBasePlugin } from "@11ty/eleventy";
+
 const globalData = {
   layout: "default.html",
   title: "D&D Player Primer",
@@ -7,6 +9,8 @@ const globalData = {
 };
 
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   // reduce README.md files to index.html
   eleventyConfig.addCollection("readme", (collection) => {
     return collection.getAllSorted().map((item) => {
