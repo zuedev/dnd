@@ -1,4 +1,4 @@
-<img src="source/pp.png" alt="Player Primer" width="100px"/>
+<img src="source/_assets/images/pp.png" alt="Player Primer" width="100px"/>
 
 # dnd5e-player-primer
 
