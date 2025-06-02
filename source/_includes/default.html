@@ -22,6 +22,17 @@
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_GB" />
     <meta property="og:site_name" content="D&D Player Primer" />
+    {% if page.url == "/README/" %}
+    <meta
+      property="og:url"
+      content="https://zuedev.github.io/dnd5e-player-primer/"
+    />
+    {% else %}
+    <meta
+      property="og:url"
+      content="https://zuedev.github.io/dnd5e-player-primer{{ page.url }}"
+    />
+    {% endif %}
 
     <!-- twitter card -->
     <meta property="twitter:card" content="summary_large_image" />
