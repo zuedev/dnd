@@ -8,6 +8,9 @@
     {% else %}
       <title>D&D Player Primer</title>
     {% endif %}
+    {% if description %}
+      <meta property="description" content="{{ description }}" />
+    {% endif %}
     <link rel="icon" href="/_assets/images/pp.png" />
 
     <!-- open graph protocol (https://ogp.me) -->
@@ -17,7 +20,7 @@
       <meta property="og:title" content="D&D Player Primer" />
     {% endif %}
     {% if description %}
-      <meta property="og:description" content="{{ description | default: 'For players of my D&D sessions' }}" />
+      <meta property="og:description" content="{{ description }}" />
     {% endif %}
     {% if og_image %}
       <meta property="og:image" content="{{ og_image }}" />
