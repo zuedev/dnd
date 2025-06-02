@@ -102,7 +102,3 @@ You can forgo your movement in a turn to do a special action, these are listed b
 ### A Hero's End
 
 When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
-
-### Modified Death Saving Throws
-
-All death saving throws are rolled secretly by the DM.
