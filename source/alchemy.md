@@ -1,4 +1,5 @@
 ---
+title: ⚗️ Alchemy
 background_image: https://media.dndbeyond.com/compendium-images/cm/c43LH2y2Gcaxb3V2/CM-cover-2560.jpg
 ---
 

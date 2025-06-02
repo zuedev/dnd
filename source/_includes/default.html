@@ -3,12 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title | default: "D&D Player Primer" }}</title>
+    {% if title %}
+      <title>D&D Player Primer > {{ title }}</title>
+    {% else %}
+      <title>D&D Player Primer</title>
+    {% endif %}
     <link rel="icon" href="/_assets/images/pp.png" />
 
-      <!-- open graph protocol (https://ogp.me) -->
-    <meta property="og:title" content="{{ title | default: 'D&D Player Primer' }}" />
-    <meta property="og:description" content="{{ description | default: 'For players of my D&D sessions' }}" />
+    <!-- open graph protocol (https://ogp.me) -->
+    {% if title %}
+      <meta property="og:title" content="D&D Player Primer > {{ title }}" />
+    {% else %}
+      <meta property="og:title" content="D&D Player Primer" />
+    {% endif %}
+    {% if description %}
+      <meta property="og:description" content="{{ description | default: 'For players of my D&D sessions' }}" />
+    {% endif %}
     {% if og_image %}
       <meta property="og:image" content="{{ og_image }}" />
     {% else %}
