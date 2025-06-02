@@ -89,7 +89,7 @@ You can use a bonus action, instead of an action, to drink a potion or feed it t
 
 ### Special Actions
 
-You can forgo your movement in a turn to do a special action, these are listed below:
+You can forgo your movement, bonus action, and reaction in a turn to do a special action instead, these are listed below:
 
 - **Heavy Blow:** Gain advantage on one melee attack this turn.
 - **Aimed Shot:** Aim for a specific point, such as a limb, for a specific desired effect.
