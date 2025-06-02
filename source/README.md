@@ -7,6 +7,6 @@ Keep in mind that this guide assumes you have read **Chapters 7-10** from the **
 ## Index
 
 - The Essentials:
-  - [📜 Rules](rules.md)
+  - [📜 Rules](rules)
 - Special Topics:
-  - [⚗️ Alchemy](alchemy.md)
+  - [⚗️ Alchemy](alchemy)
