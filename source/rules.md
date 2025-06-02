@@ -25,37 +25,35 @@ All characters are allowed to pick up an extra feat at level 1.
 
 The following optional and variant rules are being used:
 
-<ul class="columnise">
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#ActionOptions" target="_blank">🐉 Action Options</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#AdamantineWeapons" target="_blank">🐉 Adamantine Weapons</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#AlienTechnology" target="_blank">🐉 Alien Technology</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/other-rewards#_idContainer056" target="_blank">🐉 Alternatives to Epic Boons</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#CleavingthroughCreatures" target="_blank">🐉 Cleaving through Creatures</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/tcoe/character-options#CustomizingYourOrigin" target="_blank">🐉 Customizing Your Origin</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/downtime-revisited" target="_blank">🐉 Downtime Revisited</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/phb/using-ability-scores#VariantEncumbrance" target="_blank">🐉 Variant Encumbrance</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Explosives" target="_blank">🐉 Explosives</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#FearandHorror" target="_blank">🐉 Fear and Horror</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Firearms" target="_blank">🐉 Firearms</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HittingCover" target="_blank">🐉 Hitting Cover</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries" target="_blank">🐉 Injuries</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/creating-nonplayer-characters#OptionalRuleLoyalty" target="_blank">🐉 Loyalty</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/running-the-game#Milestones" target="_blank">🐉 Milestones</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/treasure#_idContainer012" target="_blank">🐉 Mixing Potions</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Morale" target="_blank">🐉 Morale</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#NewAbilityScoresHonorandSanity" target="_blank">🐉 New Ability Scores: Honor and Sanity</a></li>
-  <li><a href="https://5e.tools/variantrules.html#optional%20class%20features_tce" target="_blank">🐉 Optional Class Features</a></li>
-  <li><a href="https://5e.tools/variantrules.html#planar%20effects_dmg" target="_blank">🐉 Planar Effects</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/a-world-of-your-own#Renown" target="_blank">🐉 Renown</a></li>
-  <li><a href="https://www.dndbeyond.com/magic-items/spell-scroll#ScrollMishap" target="_blank">🐉 Scroll Mishaps</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#SimultaneousEffects" target="_blank">🐉 Simultaneous Effects</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/phb/using-ability-scores#VariantSkillswithDifferentAbilities" target="_blank">🐉 Skills with Different Abilities</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Sleep" target="_blank">🐉 Sleep</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#VariantSpellPoints" target="_blank">🐉 Spell Points</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting" target="_blank">🐉 Spellcasting</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#ToolProficiencies" target="_blank">🐉 Tool Proficiencies</a></li>
-  <li><a href="https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#TyingKnots" target="_blank">🐉 Tying Knots</a></li>
-</ul>
+- [🐉 Action Options](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#ActionOptions)
+- [🐉 Adamantine Weapons](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#AdamantineWeapons)
+- [🐉 Alien Technology](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#AlienTechnology)
+- [🐉 Alternatives to Epic Boons](https://www.dndbeyond.com/sources/dmg/other-rewards#_idContainer056)
+- [🐉 Cleaving through Creatures](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#CleavingthroughCreatures)
+- [🐉 Customizing Your Origin](https://www.dndbeyond.com/sources/tcoe/character-options#CustomizingYourOrigin)
+- [🐉 Downtime Revisited](https://www.dndbeyond.com/sources/xgte/downtime-revisited)
+- [🐉 Variant Encumbrance](https://www.dndbeyond.com/sources/phb/using-ability-scores#VariantEncumbrance)
+- [🐉 Explosives](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Explosives)
+- [🐉 Fear and Horror](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#FearandHorror)
+- [🐉 Firearms](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Firearms)
+- [🐉 Hitting Cover](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#HittingCover)
+- [🐉 Injuries](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries)
+- [🐉 Loyalty](https://www.dndbeyond.com/sources/dmg/creating-nonplayer-characters#OptionalRuleLoyalty)
+- [🐉 Milestones](https://www.dndbeyond.com/sources/dmg/running-the-game#Milestones)
+- [🐉 Mixing Potions](https://www.dndbeyond.com/sources/dmg/treasure#_idContainer012)
+- [🐉 Morale](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Morale)
+- [🐉 New Ability Scores: Honor and Sanity](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#NewAbilityScoresHonorandSanity)
+- [🐉 Optional Class Features](https://5e.tools/variantrules.html#optional%20class%20features_tce)
+- [🐉 Planar Effects](https://5e.tools/variantrules.html#planar%20effects_dmg)
+- [🐉 Renown](https://www.dndbeyond.com/sources/dmg/a-world-of-your-own#Renown)
+- [🐉 Scroll Mishaps](https://www.dndbeyond.com/magic-items/spell-scroll#ScrollMishap)
+- [🐉 Simultaneous Effects](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#SimultaneousEffects)
+- [🐉 Skills with Different Abilities](https://www.dndbeyond.com/sources/phb/using-ability-scores#VariantSkillswithDifferentAbilities)
+- [🐉 Sleep](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Sleep)
+- [🐉 Spell Points](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#VariantSpellPoints)
+- [🐉 Spellcasting](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting)
+- [🐉 Tool Proficiencies](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#ToolProficiencies)
+- [🐉 Tying Knots](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#TyingKnots)
 
 ## Homebrew Rules
 
