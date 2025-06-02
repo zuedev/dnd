@@ -6,7 +6,7 @@ const globalData = {
   background_position: "center",
 };
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   // reduce README.md files to index.html
   eleventyConfig.addCollection("readme", (collection) => {
     return collection.getAllSorted().map((item) => {
@@ -30,4 +30,4 @@ module.exports = function (eleventyConfig) {
     },
     layout: "default.html",
   };
-};
+}
