@@ -4,7 +4,7 @@ const globalData = {
   layout: "default.html",
   title: "D&D Player Primer",
   background_image:
-    "https://images.ctfassets.net/swt2dsco9mfe/4KV6I7rwmZ0y7bJvDFmmHQ/f0580242bada9b910ad18a59bd779ec6/SCAG_2560x1600_Wallpaper.jpeg",
+    "https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/phb-2024-cover.jpeg",
   background_position: "center",
 };
 
