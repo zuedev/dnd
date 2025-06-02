@@ -83,10 +83,6 @@ If a player consumes more than one potion before finishing a long rest, they mus
 
 On a success, their body is able to withstand the residual magic from multiple potions mingling in their body. On a failure, the magic overpowers them. They feel queasy and vomit, taking acid damage equal to 1 + 1d8 per level of rarity of the potion and gain a toxicity effect. For example, a rare potion deals 3d8 + 1 acid damage and applies an effect from the Wild Magic Surge table.
 
-### Quick Potion Drinking
-
-You can use a bonus action, instead of an action, to drink a potion or feed it to another willing creature. If the creature is unconscious, you still need to use an action to pour the potion down their throat.
-
 ### Special Actions
 
 You can forgo your movement, bonus action, and reaction in a turn to do a special action instead, these are listed below:
