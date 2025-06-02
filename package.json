@@ -1,10 +1,12 @@
 {
     "scripts": {
         "build": "del-cli build/ && eleventy --input=source --output=_site",
+        "build:gh-pages": "del-cli build/ && cross-env pagePrefix=/dnd5e-player-primer/ eleventy --input=source --output=_site",
         "dev": "del-cli build/ && eleventy --input=source --output=_site --serve --incremental"
     },
     "dependencies": {
         "@11ty/eleventy": "^3.1.0",
+        "cross-env": "^7.0.3",
         "del-cli": "^6.0.0"
     },
     "type": "module"

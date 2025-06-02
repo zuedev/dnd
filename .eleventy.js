@@ -7,6 +7,9 @@ const globalData = {
 };
 
 module.exports = function (eleventyConfig) {
+  if (process.env.pathPrefix)
+    eleventyConfig.pathPrefix = process.env.pathPrefix;
+
   // reduce README.md files to index.html
   eleventyConfig.addCollection("readme", (collection) => {
     return collection.getAllSorted().map((item) => {
