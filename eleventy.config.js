@@ -15,13 +15,5 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("source/_assets");
 
-  eleventyConfig.addGlobalData("layout", "default.html");
-
-  return {
-    dir: {
-      input: "source",
-      output: "build",
-    },
-    layout: "default.html",
-  };
+  eleventyConfig.addGlobalData("layout", "default.liquid");
 }
