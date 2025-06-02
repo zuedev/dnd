@@ -3,8 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title }}</title>
+    <title>{{ title | default: "D&D Player Primer" }}</title>
     <link rel="icon" href="/_assets/images/pp.png" />
+    <meta
+      name="og:image"
+      content="{{ og_image | default: '/_assets/images/pp.png' }}"
+    />
     <style>
       /* normalize */
       @import url("https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css");
@@ -35,11 +39,11 @@
 
       /* default background */
       html {
-        background-image: url({{ background_image }});
+        background-image: url({{ background_image | default: "https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/phb-2024-cover.jpeg" }});
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-        background-position: {{ background_position }};
+        background-position: {{ background_position | default: "center" }};
       }
 
       /* paper background */
