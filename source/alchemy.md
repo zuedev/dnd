@@ -1,3 +1,7 @@
+---
+background_image: https://media.dndbeyond.com/compendium-images/cm/c43LH2y2Gcaxb3V2/CM-cover-2560.jpg
+---
+
 # ⚗️ Alchemy
 
 The topic of Alchemy is barely touched upon in D&D, relegated to a simple check and some time. Let's make it more interesting! 🤓
