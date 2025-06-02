@@ -6,45 +6,27 @@
     <title>{{ title | default: "D&D Player Primer" }}</title>
     <link rel="icon" href="/_assets/images/pp.png" />
 
-    <!-- open graph protocol (https://ogp.me) -->
-    <meta
-      property="og:title"
-      content="{{ title | default: 'D&D Player Primer' }}"
-    />
-    <meta
-      property="og:description"
-      content="{{ description | default: 'For players of my D&D sessions' }}"
-    />
+      <!-- open graph protocol (https://ogp.me) -->
+    <meta property="og:title" content="{{ title | default: 'D&D Player Primer' }}" />
+    <meta property="og:description" content="{{ description | default: 'For players of my D&D sessions' }}" />
     {% if og_image %}
       <meta property="og:image" content="{{ og_image }}" />
     {% else %}
       {% if page.url == "/README/" %}
-        <meta
-          property="og:image"
-          content="https://v1.screenshot.11ty.dev/{{
-        'https://zuedev.github.io/dnd5e-player-primer/' | url_encode }}/opengraph/"
-        />
+        <meta property="og:image" content="https://v1.screenshot.11ty.dev/{{
+        'https://zuedev.github.io/dnd5e-player-primer/' | url_encode }}/opengraph/" />
       {% else %}
-        <meta
-          property="og:image"
-          content="https://v1.screenshot.11ty.dev/{{
-        'https://zuedev.github.io/dnd5e-player-primer/{{page.url}}' | url_encode }}/opengraph/"
-        />
+        <meta property="og:image" content="https://v1.screenshot.11ty.dev/{{
+        'https://zuedev.github.io/dnd5e-player-primer/{{page.url}}' | url_encode }}/opengraph/" />
       {% endif %}
     {% endif %}
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_GB" />
     <meta property="og:site_name" content="D&D Player Primer" />
     {% if page.url == "/README/" %}
-      <meta
-        property="og:url"
-        content="https://zuedev.github.io/dnd5e-player-primer/"
-      />
+      <meta property="og:url" content="https://zuedev.github.io/dnd5e-player-primer/" />
     {% else %}
-      <meta
-        property="og:url"
-        content="https://zuedev.github.io/dnd5e-player-primer{{ page.url }}"
-      />
+      <meta property="og:url" content="https://zuedev.github.io/dnd5e-player-primer{{ page.url }}" />
     {% endif %}
 
     <!-- twitter card -->
@@ -61,10 +43,26 @@
       /* set default font */
       html {
         font-family: "MonaspiceXe Nerd Font";
-        font-feature-settings: "calt", "liga", "ss01", "ss02", "ss03", "ss04",
-          "ss05", "ss06", "ss07", "ss08";
-        font-variation-settings: "calt" 1, "liga" 1, "ss01" 1, "ss02" 1,
-          "ss03" 1, "ss04" 1, "ss05" 1, "ss06" 1, "ss07" 1, "ss08" 1;
+        font-feature-settings: "calt"
+        , "liga"
+        , "ss01"
+        , "ss02"
+        , "ss03"
+        , "ss04"
+        , "ss05"
+        , "ss06"
+        , "ss07"
+        , "ss08";
+        font-variation-settings: "calt" 1
+        , "liga" 1
+        , "ss01" 1
+        , "ss02" 1
+        , "ss03" 1
+        , "ss04" 1
+        , "ss05" 1
+        , "ss06" 1
+        , "ss07" 1
+        , "ss08" 1;
         text-align: justify;
       }
 
@@ -81,7 +79,7 @@
 
       /* default background */
       html {
-        background-image: url({{ background_image | default: "https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/phb-2024-cover.jpeg" }});
+        background-image: url('{{ background_image | default: "https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/phb-2024-cover.jpeg" }}');
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -116,11 +114,11 @@
       a {
         color: blue;
 
-        &:visited {
+         &:visited {
           color: blue;
         }
 
-        &:hover {
+         &:hover {
           text-decoration: underline;
         }
       }
@@ -166,7 +164,7 @@
       nav a {
         color: white;
 
-        &:visited {
+         &:visited {
           color: white;
         }
       }
@@ -226,7 +224,7 @@
   <!-- render mermaid diagrams -->
   <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-
+    
     mermaid.initialize({
       startOnLoad: false,
       securityLevel: "loose",
@@ -237,7 +235,7 @@
         primaryTextColor: "white",
       },
     });
-
+    
     mermaid.run({
       querySelector: ".language-mermaid",
     });
