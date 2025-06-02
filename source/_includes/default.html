@@ -15,10 +15,21 @@
       property="og:description"
       content="{{ description | default: 'For players of my D&D sessions' }}"
     />
+    {% if og_image %}
+    <meta property="og:image" content="{{ og_image }}" />
+    {% else %} {% if page.url == "/README/" %}
     <meta
       property="og:image"
-      content="{{ og_image | default: 'https://zuedev.github.io/dnd5e-player-primer/_assets/images/pp.png' }}"
+      content="https://v1.screenshot.11ty.dev/{{
+    'https://zuedev.github.io/dnd5e-player-primer/' | url_encode }}/opengraph/"
     />
+    {% else %}
+    <meta
+      property="og:image"
+      content="https://v1.screenshot.11ty.dev/{{
+    'https://zuedev.github.io/dnd5e-player-primer/{{page.url}}' | url_encode }}/opengraph/"
+    />
+    {% endif %} {% endif %}
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_GB" />
     <meta property="og:site_name" content="D&D Player Primer" />

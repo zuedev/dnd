@@ -1,6 +1,5 @@
 ---
 background_image: https://media.dndbeyond.com/compendium-images/cm/c43LH2y2Gcaxb3V2/CM-cover-2560.jpg
-og_image: https://v1.screenshot.11ty.dev/https%3A%2F%2Fzuedev.github.io%2Fdnd5e-player-primer%2Falchemy%2F/opengraph/
 ---
 
 # ⚗️ Alchemy
