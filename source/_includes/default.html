@@ -5,10 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title | default: "D&D Player Primer" }}</title>
     <link rel="icon" href="/_assets/images/pp.png" />
+
+    <!-- open graph protocol -->
+    <meta
+      name="og:title"
+      content="{{ title | default: 'D&D Player Primer' }}"
+    />
+    <meta
+      name="og:description"
+      content="{{ description | default: 'For players of my D&D sessions' }}"
+    />
+    <meta property="og:type" content="website" />
     <meta
       name="og:image"
       content="{{ og_image | default: '/_assets/images/pp.png' }}"
     />
+
     <style>
       /* normalize */
       @import url("https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css");
