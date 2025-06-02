@@ -1,4 +1,4 @@
-# Code of Conduct
+# 📝 Code of Conduct
 
 All players are expected to adhere to the following code of conduct during sessions:
 

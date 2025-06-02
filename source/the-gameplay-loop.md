@@ -1,4 +1,4 @@
-# The Gameplay Loop
+# 🔄 The Gameplay Loop
 
 You can break down all D&D sessions into a basic repeating process:
 
