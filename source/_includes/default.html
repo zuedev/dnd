@@ -6,7 +6,7 @@
     <title>{{ title | default: "D&D Player Primer" }}</title>
     <link rel="icon" href="/_assets/images/pp.png" />
 
-    <!-- open graph protocol -->
+    <!-- open graph protocol (https://ogp.me) -->
     <meta
       name="og:title"
       content="{{ title | default: 'D&D Player Primer' }}"
@@ -20,6 +20,8 @@
       content="{{ og_image | default: '/_assets/images/pp.png' }}"
     />
     <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_GB" />
+    <meta name="og:site_name" content="D&D Player Primer" />
 
     <!-- twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
