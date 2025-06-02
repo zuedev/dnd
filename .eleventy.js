@@ -1,3 +1,10 @@
+const globalData = {
+  title: "D&D Player Primer",
+  background_image:
+    "https://images.ctfassets.net/swt2dsco9mfe/4KV6I7rwmZ0y7bJvDFmmHQ/f0580242bada9b910ad18a59bd779ec6/SCAG_2560x1600_Wallpaper.jpeg",
+  background_position: "center",
+};
+
 module.exports = function (eleventyConfig) {
   // reduce README.md files to index.html
   eleventyConfig.addCollection("readme", (collection) => {
@@ -10,6 +17,10 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("source/_assets");
+
+  Object.entries(globalData).forEach(([key, value]) => {
+    eleventyConfig.addGlobalData(key, value);
+  });
 
   return {
     dir: {
